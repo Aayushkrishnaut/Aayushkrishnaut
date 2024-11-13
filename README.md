@@ -12,14 +12,14 @@ Welcome to my GitHub profile! I'm Aayush, a web developer with a strong foundati
 - **AI Delivery System**: Developing a capstone project that utilizes AI to optimize delivery time slots for articles/parcels based on both sender and recipient preferences.
 - **SkillVerse**: A freelancing platform featuring user-friendly pages for client and freelancer interactions, using JavaScript and HTML/CSS.
 - **PDF Chatbot Reader**: A chatbot that can read PDFs, summarize content, and answer questions based on the text, created with JavaScript and Tailwind CSS.
-- **krsnaskhaa Website**: Building a website to promote Lord Krishna’s teachings, featuring sections for resources, teachings, and blogs. Focused on creating a spiritually engaging user experience.
+- **Built a digital** clock using JavaScript.
+- **Text-to-Speech-Converter**: Created a text-to-speech converter hosted on GitHub: [TextToSpeechConverter](https://aayushkrishnaut.github.io/TextToSpeechConverter/).
 
 ---
 
 ## 🌱 #100DaysOfCode Challenge
 I'm currently participating in the #100DaysOfCode challenge, posting daily updates on Twitter. This challenge has helped me explore various JavaScript concepts and build mini-projects. Some recent days include:
-- **Day 4**: Built a digital clock using JavaScript.
-- **Day 6**: Created a text-to-speech converter hosted on GitHub: [TextToSpeechConverter](https://aayushkrishnaut.github.io/TextToSpeechConverter/).
+- **Day 4**:
 
 Follow my progress on Twitter for more updates!
 
@@ -38,7 +38,7 @@ I aim to deepen my knowledge in **React**, **JavaScript frameworks**, and **back
 ## 💡 Areas of Interest
 - **Open Source Contributions**: Actively exploring open-source projects in web development and MERN stack. Interested in contributing to communities with beginner-friendly issues to build experience.
 - **AI-Driven Solutions**: Enthusiastic about applying AI to solve real-world problems, such as customized time slot delivery systems.
-- **Faceless YouTube Content**: Recently started exploring AI-based content creation for YouTube, focusing on motivational quotes and spiritual content.
+  
 
 ---
 
