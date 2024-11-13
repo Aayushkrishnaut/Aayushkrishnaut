@@ -17,14 +17,6 @@ Welcome to my GitHub profile! I'm Aayush, a web developer with a strong foundati
 
 ---
 
-## 🌱 #100DaysOfCode Challenge
-I'm currently participating in the #100DaysOfCode challenge, posting daily updates on Twitter. This challenge has helped me explore various JavaScript concepts and build mini-projects. Some recent days include:
-- **Day 4**:
-
-Follow my progress on Twitter for more updates!
-
----
-
 ## 💻 Technical Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend**: Node.js, Express
@@ -55,7 +47,10 @@ I am currently building my skills to pursue an internship as a Full Stack Develo
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me 
+Follow my progress on social Media for more updates!
+
+---
 - **LinkedIn**: [linkedin.com/in/aayushkumaryadav](https://www.linkedin.com/in/aayushkumaryadav/)
 - **Polywork**: [polywork.com/aayushkumaryadav](https://www.polywork.com/aayushkumaryadav)
 - **Twitter**: [@aayushyadav020](https://twitter.com/@aayushyadav020)
