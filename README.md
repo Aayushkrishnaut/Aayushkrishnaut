@@ -58,7 +58,7 @@ I am currently building my skills to pursue an internship as a Full Stack Develo
 ## 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/aayushkumaryadav](https://www.linkedin.com/in/aayushkumaryadav/)
 - **Polywork**: [polywork.com/aayushkumaryadav](https://www.polywork.com/aayushkumaryadav)
-- **Twitter**: [@@aayushyadav020](https://twitter.com/@aayushyadav020)
+- **Twitter**: [@aayushyadav020](https://twitter.com/@aayushyadav020)
 
 Feel free to reach out for collaboration, open-source contribution, or just to say hello!
 
